@@ -66,11 +66,11 @@ The dataset used in this project is fictional and was created for educational an
 
 ## Dashboard Preview
 
-![Customer Analysis Dashboard](screenshots/dashboard.png)
+![Customer Analysis Dashboard](dashboard.png)
 
 ## Customer Summary
 
-![Customer Summary](screenshots/customer_analysis.png)
+![Customer Summary](customer_analysis.png)
 
 ## Author
 Nkosana Mabunda
