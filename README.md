@@ -64,5 +64,13 @@ The dashboard visualises:
 ## Data Disclaimer
 The dataset used in this project is fictional and was created for educational and portfolio purposes.
 
+## Dashboard Preview
+
+![Customer Analysis Dashboard](screenshots/dashboard.png)
+
+## Customer Summary
+
+![Customer Summary](screenshots/customer_analysis.png)
+
 ## Author
 Nkosana Mabunda
